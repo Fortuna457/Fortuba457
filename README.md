@@ -1,7 +1,9 @@
 # Fortuba457
 
 Hello, my name is Alejandro Castro Canalejo.
+
 I have completed a degree of microcomputer systems and networks. And right now, I'm studying web applications development.
+
 My objective is to be in a degree of hacking and cybersecurity.
 
 My current level of English is B1, but at this momemnt I'm preparing for the B2.
