@@ -1,5 +1,5 @@
 # Fortuba457
-This is my ReadME file.
+
 Hello, my name is Alejandro Castro Canalejo.
 I have completed a degree of microcomputer systems and networks. And right now, I'm studying web applications development.
 My objective is to be in a degree of hacking and cybersecurity.
